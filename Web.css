@@ -1,0 +1,36 @@
+*{
+margin: auto;
+    margin-top: 10px;
+
+
+}
+.one div{
+    display: inline;
+    white-space: 10px;
+}
+.x{
+    font-size: 20px;font-family: Arial, Helvetica, sans-serif;
+}
+.second span{
+    width: 20px;
+}
+h4{
+    display: inline;
+}
+td{
+    line-height: 20px;font-family: Arial, Helvetica, sans-serif;
+}
+#b:hover{
+width: 50px;height: 50px;
+}
+#b:hover{
+    width: 700px;height: 600px;
+    }
+    .dd span{
+        display: inline-table;
+
+    }
+   .h span{
+    display: flex;
+    display: ;
+   }
